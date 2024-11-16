@@ -1,0 +1,5 @@
+Patient ID,Axial Slices,Coronal Slices,Sagittal Slices,Lesion Percentage,Axial Spacing,Coronal Spacing,Sagittal Spacing
+436,20,144,160,2.601370116645066,6.0,1.375,1.375
+302,51,128,128,4.165625900662888,2.0,2.0,2.0
+001,16,128,128,0.8216354723707665,6.0,1.25,1.25
+002,21,128,128,49.80971789142871,4.0,1.5625,1.5625
